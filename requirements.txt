@@ -7,4 +7,3 @@ streamlit==1.21.0
 streamlit_extras==0.2.7
 streamlit_lottie==0.0.3
 tensorflow==2.12.0
-tensorflow_intel==2.12.0
